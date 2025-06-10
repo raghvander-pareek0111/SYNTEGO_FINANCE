@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Initialize Cohere API client
-COHERE_API_KEY = "3eNemNsq3c2xWNN0iPfKQWNI4mI57mgyJF282r2g"
+COHERE_API_KEY = 
 co = cohere.Client(COHERE_API_KEY)
 
 # Load or initialize expenses and income DataFrame

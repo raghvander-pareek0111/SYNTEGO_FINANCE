@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import cohere
+import cohere==4.5.0
 from datetime import datetime
 import json
 import requests

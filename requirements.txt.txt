@@ -1,5 +1,0 @@
-streamlit
-pandas
-cohere==4.6.0
-requests
-python-dotenv

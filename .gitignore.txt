@@ -1,2 +1,0 @@
-.env
-finance_data.csv
